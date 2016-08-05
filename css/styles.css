@@ -1,10 +1,7 @@
-li {
-  font-size: 95;
-}
+
 .aboutMe{
-  font-size: 65;
   border: 4px solid lightblue;
-  padding: 6px;
+  padding: 5px;
   margin left: : 20px;
   font-weight: bold;
   font-family: sans-serif;
@@ -31,6 +28,29 @@ li {
 
 
 }
+
 body{
   background: azure;
+}
+
+.projectList li{
+  font-size: 85%;
+
+}
+
+.aboutMe li{
+  font-size: 104%;
+
+}
+
+img{
+  display: block;
+  margin:auto;
+}
+
+h1{
+  text-align: center;
+}
+p{
+  font-size: 120%;
 }
