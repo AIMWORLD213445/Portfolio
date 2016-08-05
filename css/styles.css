@@ -1,13 +1,15 @@
-
+.container{
+  width: 100%;
+}
 .aboutMe{
-  border: 4px solid lightblue;
+  border: 4px solid orange;
   padding: 5px;
-  margin left: : 20px;
+  margin left: : 10px;
   font-weight: bold;
   font-family: sans-serif;
-  width: 65%;
+  width: 67%;
   float: left;
-  background-color: pink;
+  background-color: lightblue;
 }
 
 .focus{
@@ -21,7 +23,7 @@
   margin-right: 10px;
   font-weight: bolder;
   font-style: oblique;
-  width: 20%;
+  width: 30%;
   height:auto;
   float: left;
   background-color: orange;
@@ -31,15 +33,15 @@
 
 body{
   background: azure;
+
 }
 
 .projectList li{
-  font-size: 85%;
-
+  font-size: 98%;
 }
 
 .aboutMe li{
-  font-size: 104%;
+  font-size: 108%;
 
 }
 
@@ -50,7 +52,12 @@ img{
 
 h1{
   text-align: center;
+  background-color: lightyellow;
 }
+h2{
+  text-align: center;
+}
+
 p{
-  font-size: 120%;
+  font-size: 115%;
 }
