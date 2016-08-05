@@ -9,7 +9,7 @@
 This is the main way I will display my projects via links to GitHub. Some personal history/interests and a photo are also included.
 
 ## Setup/Installation requirements
-*This should run on up to date web browsers, just open the index.html or follow the link.*
+*This should run on up to date web browsers, just open the index.html or follow the link.https://aimworld213445.github.io/Portfolio/*
 
 #### Technologies Used
 

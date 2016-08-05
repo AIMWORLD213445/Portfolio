@@ -11,12 +11,10 @@
   float: left;
   background-color: lightblue;
 }
-
 .focus{
   font-weight: bolder;
   font-family: monospace;
 }
-
 .projectList{
   border: 4px solid lightblue;
   padding: 5px;
@@ -27,29 +25,20 @@
   height:auto;
   float: left;
   background-color: orange;
-
-
 }
-
 body{
   background: azure;
-
 }
-
 .projectList li{
   font-size: 98%;
 }
-
 .aboutMe li{
   font-size: 108%;
-
 }
-
 img{
   display: block;
   margin:auto;
 }
-
 h1{
   text-align: center;
   background-color: lightyellow;
@@ -57,7 +46,6 @@ h1{
 h2{
   text-align: center;
 }
-
 p{
   font-size: 115%;
 }
